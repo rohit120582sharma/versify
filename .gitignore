@@ -7,17 +7,16 @@
 *.jsbundle
 
 
+# Server
+node_modules/
+coverage/
+npm-debug.log
+package-lock.json
+
+
 # Client
 client/node_modules/
 client/coverage/
 client/.nvm
 client/npm-debug.log
 client/package-lock.json
-
-
-# Server
-server/node_modules/
-server/coverage/
-server/.nvm
-server/npm-debug.log
-server/package-lock.json
