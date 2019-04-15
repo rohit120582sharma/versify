@@ -1,0 +1,6 @@
+language: node_js
+
+prescript:
+
+script:
+  - echo "Hello word"

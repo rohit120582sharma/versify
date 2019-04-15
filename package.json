@@ -1,0 +1,20 @@
+{
+  "name": "versify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohit120582sharma/versify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohit120582sharma/versify/issues"
+  },
+  "homepage": "https://github.com/rohit120582sharma/versify#readme"
+}
