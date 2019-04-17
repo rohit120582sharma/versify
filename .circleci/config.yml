@@ -25,10 +25,6 @@ jobs:
             - v1-dependencies-
 
       - run:
-          name: Client build
-          command: cd client
-      
-      - run:
           name: Setup Dependencies
           command: npm install
 
